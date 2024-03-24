@@ -1,0 +1,1 @@
+This is a responsive static website for a U-FIT-GYM fitness center created using HTML, CSS and JavaScript. It showcases the services, facilities, trainers and testimonials of the U-FIT-GYM fitness center.
